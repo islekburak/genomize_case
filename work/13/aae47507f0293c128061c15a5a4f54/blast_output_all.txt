@@ -1,0 +1,1 @@
+/Users/islekbro/Desktop/genomize_case1/outputs/blast_output_all.txt

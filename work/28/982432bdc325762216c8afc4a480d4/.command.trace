@@ -1,0 +1,9 @@
+nextflow.trace/v2
+realtime=1432
+%cpu=
+rchar=
+wchar=
+syscr=
+syscw=
+read_bytes=
+write_bytes=

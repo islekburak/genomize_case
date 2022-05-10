@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 05/10/2022 16:40:54
+New DB name:   /Users/islekbro/Desktop/genomize_case1/work/a7/e304f896977e0fb7f1a5220b88beda/inputs/human_proteomes
+New DB title:  /Users/islekbro/Desktop/genomize_case1/inputs/human_proteomes.fasta
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 20361 sequences in 0.494172 seconds.
+
+
