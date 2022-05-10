@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "human_proteomes",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/Users/islekbro/Desktop/genomize_case/inputs/human_proteomes.fasta",
+  "number-of-letters": 11367425,
+  "number-of-sequences": 20361,
+  "last-updated": "2022-05-10T15:43:00",
+  "number-of-volumes": 1,
+  "bytes-total": 15912976,
+  "bytes-to-cache": 11550835,
+  "files": [
+    "human_proteomes.pdb",
+    "human_proteomes.phr",
+    "human_proteomes.pin",
+    "human_proteomes.pog",
+    "human_proteomes.pos",
+    "human_proteomes.pot",
+    "human_proteomes.psq",
+    "human_proteomes.ptf",
+    "human_proteomes.pto"
+  ]
+}

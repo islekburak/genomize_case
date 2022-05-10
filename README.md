@@ -1,1 +1,1 @@
-# genomize_case
+# nextflow tutorial for genomize
